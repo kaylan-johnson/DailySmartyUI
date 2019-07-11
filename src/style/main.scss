@@ -1,6 +1,3 @@
-.post-topic {
-  margin: 0 4px;
-}
 
 html {
   font-family: 'Lato', sans-serif;
@@ -41,6 +38,8 @@ ul {
 $color-blue-one: #0079FF;
 $color-gray-one: #666666;
 $color-gray-two: #B3B3B3;
+
 @import './searchBar';
 @import './recentPosts';
+@import './post';
 

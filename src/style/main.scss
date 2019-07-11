@@ -39,7 +39,10 @@ $color-blue-one: #0079FF;
 $color-gray-one: #666666;
 $color-gray-two: #B3B3B3;
 
+@import './mixins';
 @import './searchBar';
 @import './recentPosts';
 @import './post';
+@import './home';
+@import './results';
 
